@@ -41,8 +41,8 @@ PhhonePad.Tests/
 ### Setup Instructions
 
 1. Clone the Repository
-     `git clone https://github.com/your-username/PhonePadDecoder.git
-      cd PhonePadDecoder`
+     `1. git clone https://github.com/avinashkumar56/PhonePadDecoder.git`
+     `2. cd PhonePadDecoder`
 2. Build the Main App
      `1. cd ../Phone_Pad`
      `2. dotnet build`
